@@ -15,3 +15,6 @@
 
 The design is fully inspired by Twitter webapp. 
 
+## Important
+
+ This project is only for learning purposes and should be treated as such. Twitter is a registered trademark of Twitter Inc.
