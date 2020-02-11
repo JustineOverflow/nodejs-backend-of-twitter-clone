@@ -13,7 +13,7 @@
 - SQL
 - Sequelize
 
-The design is fully inspired by Twitter webapp. 
+The design is inspired by Twitter webapp. 
 
 ## Important
 
